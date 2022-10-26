@@ -1,1 +1,19 @@
-@i;
+@font-face {
+  font-family: PPBold;
+  src: url("../fonts/PPNeueMachina-Ultrabold.woff2");
+}
+@font-face {
+  font-family: PPRegular;
+  src: url("../fonts/PPNeueMachina-Regular.woff2");
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: PPRegular;
+}
+
+.hero {
+  height: 100vh;
+  background-color: #ffcf0a;
+}
