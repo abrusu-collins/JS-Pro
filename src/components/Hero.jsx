@@ -8,13 +8,14 @@ function Hero() {
         <div className="hero-sub-header">
           <RoughNotationGroup show={true}>
             <p>
-              Learning to code is{" "}
+              Learning to code is {" "}
+              
               <RoughNotation type="box" order="1">
                 HARD
               </RoughNotation>
             </p>
             <p>
-              But finding the right resources for your learning journey is{" "}
+              But finding the right resources for your learning journey is {" "}
               <RoughNotation type="circle" order="2">
                 HARDER
               </RoughNotation>
