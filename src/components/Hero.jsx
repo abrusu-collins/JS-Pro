@@ -29,7 +29,7 @@ function Hero() {
             </p>
           </RoughNotationGroup>
         </div>
-        <a href="">Start Learning</a>
+        <a href=" ">Start Learning</a>
       </div>
     </div>
   );

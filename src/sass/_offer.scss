@@ -1,3 +1,9 @@
-.offer{
-
+.offer {
+  margin: auto;
+  text-align: center;
+  & .offer-head {
+    font-size: 30px;
+    font-family: PPBold;
+    margin: 50px 0;
+  }
 }
