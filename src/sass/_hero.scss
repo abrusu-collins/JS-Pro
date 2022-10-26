@@ -18,6 +18,21 @@
         margin-top: 10px;
       }
     }
+    & a {
+      display: inline-block;
+      text-decoration: none;
+      color: $yellow;
+      background-color: $black;
+      padding: 12px 40px;
+      margin-top: 40px;
+      border-radius: 5px;
+      border: 2px solid $black;
+
+      &:hover {
+        background-color: $yellow;
+        color: $black;
+      }
+    }
   }
   &:after {
     content: " ";

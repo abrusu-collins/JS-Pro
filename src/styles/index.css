@@ -36,6 +36,20 @@
 .hero .inner-hero .hero-sub-header p {
   margin-top: 10px;
 }
+.hero .inner-hero a {
+  display: inline-block;
+  text-decoration: none;
+  color: #ffcf0a;
+  background-color: #151a1c;
+  padding: 12px 40px;
+  margin-top: 40px;
+  border-radius: 5px;
+  border: 2px solid #151a1c;
+}
+.hero .inner-hero a:hover {
+  background-color: #ffcf0a;
+  color: #151a1c;
+}
 .hero:after {
   content: " ";
   width: 220px;

@@ -9,7 +9,7 @@ function Hero() {
           <RoughNotationGroup show={true}>
             <p>
               Learning to code is {" "}
-              
+
               <RoughNotation type="box" order="1">
                 HARD
               </RoughNotation>
@@ -29,6 +29,7 @@ function Hero() {
             </p>
           </RoughNotationGroup>
         </div>
+        <a href="">Start Learning</a>
       </div>
     </div>
   );
