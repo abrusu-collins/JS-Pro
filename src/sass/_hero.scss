@@ -1,5 +1,5 @@
 .hero {
-  height: 80vh;
+  height: 70.5vh;
   background-color: $yellow;
   display: flex;
   align-items: center;
@@ -13,12 +13,22 @@
       color: $black;
       margin-bottom: 25px;
     }
-    & .hero-sub-header{
-        font-size: 20px;
-        & p{
-            margin-top: 10px;
-
-        }
+    & .hero-sub-header {
+      font-size: 20px;
+      & p {
+        margin-top: 10px;
+      }
     }
+  }
+  &:after {
+    content: " ";
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    bottom: 0px;
+    box-shadow: 50px -30px 0 0 $yellow;
+    right: 0;
+    z-index: 0;
+    border-radius: 0% 50% 0% 0%;
   }
 }

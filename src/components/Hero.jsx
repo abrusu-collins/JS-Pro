@@ -8,7 +8,7 @@ function Hero() {
         <div className="hero-sub-header">
           <RoughNotationGroup show={true}>
             <p>
-              Learning to Code is{" "}
+              Learning to code is{" "}
               <RoughNotation type="box" order="1">
                 HARD{" "}
               </RoughNotation>

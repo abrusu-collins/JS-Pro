@@ -14,7 +14,7 @@
 }
 
 .hero {
-  height: 80vh;
+  height: 70.5vh;
   background-color: #ffcf0a;
   display: flex;
   align-items: center;
@@ -35,4 +35,15 @@
 }
 .hero .inner-hero .hero-sub-header p {
   margin-top: 10px;
+}
+.hero:after {
+  content: " ";
+  width: 220px;
+  height: 220px;
+  position: absolute;
+  bottom: 0px;
+  box-shadow: 50px -30px 0 0 #ffcf0a;
+  right: 0;
+  z-index: 0;
+  border-radius: 0% 50% 0% 0%;
 }
