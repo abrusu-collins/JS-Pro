@@ -4,10 +4,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  border-bottom-left-radius: 120px;
   & .inner-hero {
     & .hero-header {
       font-family: PPBold;
       font-size: 60px;
+      color: $black;
     }
   }
 }

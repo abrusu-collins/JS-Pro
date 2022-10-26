@@ -11,6 +11,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: PPRegular;
+  color: #c9cecf;
 }
 
 .hero {
@@ -19,8 +20,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  border-bottom-left-radius: 120px;
 }
 .hero .inner-hero .hero-header {
   font-family: PPBold;
   font-size: 60px;
+  color: #151a1c;
 }
