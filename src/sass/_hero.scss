@@ -1,4 +1,13 @@
-.hero{
-    height:100vh;
-    background-color: $yellow;
+.hero {
+  height: 80vh;
+  background-color: $yellow;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  & .inner-hero {
+    & .hero-header {
+      font-family: PPBold;
+      font-size: 60px;
+    }
+  }
 }
