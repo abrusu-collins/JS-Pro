@@ -6,10 +6,19 @@
   justify-content: center;
   border-bottom-left-radius: 120px;
   & .inner-hero {
+    text-align: center;
     & .hero-header {
       font-family: PPBold;
       font-size: 60px;
       color: $black;
+      margin-bottom: 25px;
+    }
+    & .hero-sub-header{
+        font-size: 20px;
+        & p{
+            margin-top: 10px;
+
+        }
     }
   }
 }
