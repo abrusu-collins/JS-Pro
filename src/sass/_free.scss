@@ -1,13 +1,12 @@
 .free {
- width: 70%;
- margin: auto;
+  width: 70%;
+  margin: auto;
   display: grid;
-  grid-template-columns: repeat(2,1fr);
-  grid-gap:4rem;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 4rem;
   padding: 100px 0;
   & > div {
     border-radius: 20px;
-
     & p {
       font-family: PPBold;
       font-size: 40px;
