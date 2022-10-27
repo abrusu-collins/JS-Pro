@@ -1,3 +1,18 @@
-.free{
-    height: 100vh;
+.free {
+  //   height: 100vh;
+  & > div {
+    & p {
+      font-family: PPBold;
+      font-size: 40px;
+    }
+  }
+  & .up {
+    background-color: $yellow;
+  }
+  & .it-is-free {
+    background-color: $dark;
+    & p {
+      color: $white;
+    }
+  }
 }

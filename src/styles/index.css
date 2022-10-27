@@ -156,6 +156,16 @@
   width: 2%;
 }
 
-.free {
-  height: 100vh;
+.free > div p {
+  font-family: PPBold;
+  font-size: 40px;
+}
+.free .up {
+  background-color: #ffcf0a;
+}
+.free .it-is-free {
+  background-color: #151a1c;
+}
+.free .it-is-free p {
+  color: #fcfeff;
 }
