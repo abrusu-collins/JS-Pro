@@ -111,14 +111,22 @@
 }
 
 .testimonies {
-  height: 70vh;
   background-color: #151a1c;
 }
 .testimonies .testimonies-head {
   color: #fcfeff;
+  text-align: center;
+  font-size: 30px;
+  font-family: PPBold;
+  padding: 50px 0;
+}
+.testimonies .testimonies-inner {
+  margin: auto;
+  width: 70%;
 }
 .testimonies .testimonies-inner .the-testimonies {
   display: flex;
+  justify-content: space-around;
 }
 .testimonies .testimonies-inner .the-testimonies > div .testimony-body {
   color: #c9cecf;

@@ -1,12 +1,19 @@
 .testimonies {
-  height: 70vh;
+
   background-color: $dark;
   & .testimonies-head {
     color: $white;
+    text-align: center;
+    font-size: 30px;
+    font-family: PPBold;
+    padding: 50px 0;
   }
   & .testimonies-inner {
+    margin: auto;
+    width: 70%;
     & .the-testimonies {
       display: flex;
+      justify-content: space-around;
       & > div {
         & .testimony-body {
           color: $grey;
