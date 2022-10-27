@@ -181,3 +181,11 @@
 .free .it-is-free p {
   color: #fcfeff;
 }
+
+.wait {
+  background-color: #ffcf0a;
+  height: 100vh;
+}
+.wait img {
+  width: 50%;
+}
