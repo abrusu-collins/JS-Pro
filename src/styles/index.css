@@ -184,11 +184,31 @@
 
 .wait {
   background-color: #ffcf0a;
-  height: 100vh;
+}
+.wait .wait-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  margin: auto;
 }
 .wait .wait-inner .wait-about p {
   font-family: PPBold;
   font-size: 40px;
+}
+.wait .wait-inner .wait-about a {
+  display: inline-block;
+  text-decoration: none;
+  color: #ffcf0a;
+  background-color: #151a1c;
+  padding: 12px 40px;
+  margin-top: 40px;
+  border-radius: 5px;
+  border: 2px solid #151a1c;
+}
+.wait .wait-inner .wait-about a:hover {
+  background-color: #ffcf0a;
+  color: #151a1c;
 }
 .wait img {
   width: 50%;
