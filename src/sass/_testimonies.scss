@@ -1,5 +1,4 @@
 .testimonies {
-
   background-color: $dark;
   & .testimonies-head {
     color: $white;
@@ -10,11 +9,13 @@
   }
   & .testimonies-inner {
     margin: auto;
-    width: 70%;
+    width: 90%;
     & .the-testimonies {
-      display: flex;
-      justify-content: space-around;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-gap: 2rem;
       & > div {
+        border: 1px solid $yellow;
         & .testimony-body {
           color: $grey;
         }
