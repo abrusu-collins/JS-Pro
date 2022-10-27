@@ -10,6 +10,38 @@ function Testimonies() {
           <img src={_1} alt="" />
           <img src={_1} alt="" />
         </div>
+        <div className="the-testimonies">
+          <div>
+            <p className="testimony-body">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
+              facilis animi sunt repellendus illo quos dolores corrupti
+              voluptatibus quia molestiae! Nihil itaque est iste ut delectus
+              aliquid quisquam optio ea.
+            </p>
+            <p className="person-name">Abrusu Collins</p>
+            <p className="person-position">CEO, DevTech</p>
+          </div>
+          <div>
+            <p className="testimony-body">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
+              facilis animi sunt repellendus illo quos dolores corrupti
+              voluptatibus quia molestiae! Nihil itaque est iste ut delectus
+              aliquid quisquam optio ea.
+            </p>
+            <p className="person-name">Abrusu Collins</p>
+            <p className="person-position">CEO, DevTech</p>
+          </div>
+          <div>
+            <p className="testimony-body">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
+              facilis animi sunt repellendus illo quos dolores corrupti
+              voluptatibus quia molestiae! Nihil itaque est iste ut delectus
+              aliquid quisquam optio ea.
+            </p>
+            <p className="person-name">Abrusu Collins</p>
+            <p className="person-position">CEO, DevTech</p>
+          </div>
+        </div>
 
         <div className="bottom-quote">
           <img src={_2} alt="" />
