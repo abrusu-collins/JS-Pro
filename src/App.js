@@ -5,6 +5,7 @@ import Everybody from "./components/Everybody";
 import Testimonies from "./components/Testimonies";
 import Free from "./components/Free";
 import Wait from "./components/Wait";
+import Footer from "./components/Footer";
 function App() {
   return (
     <>
@@ -14,6 +15,7 @@ function App() {
       <Testimonies/>
       <Free/>
       <Wait/>
+      <Footer/>
     </>
   );
 }
