@@ -1,7 +1,15 @@
-.testimonies{
-    height:70vh;
+.testimonies {
+  & .testimonies-inner {
+    height: 70vh;
     background-color: $dark;
-    & .testimonies-head{
-        color: $white;
+    & .testimonies-head {
+      color: $white;
     }
+    & .bottom-quote {
+      text-align: right;
+    }
+    & img {
+      width: 2%;
+    }
+  }
 }

@@ -110,10 +110,16 @@
   margin: 30px 0;
 }
 
-.testimonies {
+.testimonies .testimonies-inner {
   height: 70vh;
   background-color: #151a1c;
 }
-.testimonies .testimonies-head {
+.testimonies .testimonies-inner .testimonies-head {
   color: #fcfeff;
+}
+.testimonies .testimonies-inner .bottom-quote {
+  text-align: right;
+}
+.testimonies .testimonies-inner img {
+  width: 2%;
 }
