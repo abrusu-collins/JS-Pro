@@ -144,8 +144,12 @@
 .testimonies .testimonies-inner .the-testimonies > div .person-position {
   color: #c9cecf;
 }
+.testimonies .testimonies-inner .top-quote {
+  margin-bottom: 20px;
+}
 .testimonies .testimonies-inner .bottom-quote {
   text-align: right;
+  margin-top: 20px;
 }
 .testimonies .testimonies-inner img {
   width: 2%;

@@ -30,8 +30,12 @@
         }
       }
     }
+    & .top-quote {
+      margin-bottom: 20px;
+    }
     & .bottom-quote {
       text-align: right;
+      margin-top: 20px;
     }
     & img {
       width: 2%;
