@@ -117,6 +117,18 @@
 .testimonies .testimonies-head {
   color: #fcfeff;
 }
+.testimonies .testimonies-inner .the-testimonies {
+  display: flex;
+}
+.testimonies .testimonies-inner .the-testimonies > div .testimony-body {
+  color: #c9cecf;
+}
+.testimonies .testimonies-inner .the-testimonies > div .person-name {
+  color: #fcfeff;
+}
+.testimonies .testimonies-inner .the-testimonies > div .person-position {
+  color: #c9cecf;
+}
 .testimonies .testimonies-inner .bottom-quote {
   text-align: right;
 }

@@ -1,10 +1,24 @@
 .testimonies {
-    height: 70vh;
-    background-color: $dark;
+  height: 70vh;
+  background-color: $dark;
   & .testimonies-head {
     color: $white;
   }
   & .testimonies-inner {
+    & .the-testimonies {
+      display: flex;
+      & > div {
+        & .testimony-body {
+          color: $grey;
+        }
+        & .person-name {
+          color: $white;
+        }
+        & .person-position {
+          color: $grey;
+        }
+      }
+    }
     & .bottom-quote {
       text-align: right;
     }
