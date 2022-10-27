@@ -122,7 +122,7 @@
 }
 .testimonies .testimonies-inner {
   margin: auto;
-  width: 90%;
+  width: 70%;
 }
 .testimonies .testimonies-inner .the-testimonies {
   display: grid;
@@ -131,9 +131,12 @@
 }
 .testimonies .testimonies-inner .the-testimonies > div {
   border: 1px solid #ffcf0a;
+  border-radius: 10px;
+  padding: 30px;
 }
 .testimonies .testimonies-inner .the-testimonies > div .testimony-body {
   color: #c9cecf;
+  margin-bottom: 30px;
 }
 .testimonies .testimonies-inner .the-testimonies > div .person-name {
   color: #fcfeff;
