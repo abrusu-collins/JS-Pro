@@ -1,6 +1,15 @@
 .wait{
     background-color: $yellow;
     height:100vh;
+    & .wait-inner{
+        & .wait-about{
+            & p{
+                font-family: PPBold;
+                font-size: 40px;
+            }
+            & a{}
+        }
+    }
     & img{
         width: 50%;
     }

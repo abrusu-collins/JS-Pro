@@ -186,6 +186,10 @@
   background-color: #ffcf0a;
   height: 100vh;
 }
+.wait .wait-inner .wait-about p {
+  font-family: PPBold;
+  font-size: 40px;
+}
 .wait img {
   width: 50%;
 }
