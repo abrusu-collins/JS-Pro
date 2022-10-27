@@ -86,3 +86,11 @@
   justify-content: center;
   border-radius: 7px;
 }
+
+.everybody {
+  margin: 100px auto 100px auto;
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
