@@ -1,10 +1,10 @@
 .testimonies {
-  & .testimonies-inner {
     height: 70vh;
     background-color: $dark;
-    & .testimonies-head {
-      color: $white;
-    }
+  & .testimonies-head {
+    color: $white;
+  }
+  & .testimonies-inner {
     & .bottom-quote {
       text-align: right;
     }

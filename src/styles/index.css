@@ -110,11 +110,11 @@
   margin: 30px 0;
 }
 
-.testimonies .testimonies-inner {
+.testimonies {
   height: 70vh;
   background-color: #151a1c;
 }
-.testimonies .testimonies-inner .testimonies-head {
+.testimonies .testimonies-head {
   color: #fcfeff;
 }
 .testimonies .testimonies-inner .bottom-quote {
