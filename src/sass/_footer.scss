@@ -14,8 +14,17 @@
         margin-bottom: 10px;
       }
     }
+
     & img {
       width: 40%;
     }
+  }
+  & .abrusu {
+    background-color: $dark;
+    color: $white;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+    font-family: PPBold;
   }
 }

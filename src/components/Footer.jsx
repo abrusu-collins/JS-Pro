@@ -1,5 +1,6 @@
 import footergirl from "../img/footer-g.png";
 function Footer() {
+    let year = new Date().getFullYear();
     return ( 
         <div className="footer">
             <div className="footer-inner">
@@ -11,7 +12,7 @@ function Footer() {
                     <p>Bye!</p>
                 </div>
             </div>
-            <div className="abrusu"></div>
+            <div className="abrusu"> &copy; Abrusu Collins {year}. All rights reserved</div>
         </div>
      );
 }

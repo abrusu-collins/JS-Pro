@@ -233,3 +233,11 @@
 .footer .footer-inner img {
   width: 40%;
 }
+.footer .abrusu {
+  background-color: #151a1c;
+  color: #fcfeff;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+  font-family: PPBold;
+}
