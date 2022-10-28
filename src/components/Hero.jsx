@@ -11,7 +11,7 @@ function Hero() {
               Learning to code is {" "}
 
               <RoughNotation type="underline" order="1">
-                HARD
+              {" "} HARD{" "}
               </RoughNotation>
             </p>
             <p>
