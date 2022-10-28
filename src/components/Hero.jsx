@@ -10,13 +10,13 @@ function Hero() {
             <p>
               Learning to code is {" "}
 
-              <RoughNotation type="box" order="1">
+              <RoughNotation type="underline" order="1">
                 HARD
               </RoughNotation>
             </p>
             <p>
               But finding the right resources for your learning journey is {" "}
-              <RoughNotation type="circle" order="2">
+              <RoughNotation type="underline" order="2">
                 HARDER
               </RoughNotation>
             </p>
