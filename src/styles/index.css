@@ -247,6 +247,14 @@
   top: 0;
   background-color: #151a1c;
   height: 100vh;
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+.soon p {
+  color: white;
+  font-size: 30px;
+  font-family: PPBold;
 }
 .soon img {
   width: 50%;
