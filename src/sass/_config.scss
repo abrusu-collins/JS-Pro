@@ -18,3 +18,21 @@ $black: #151a1c;
   font-family: PPRegular;
   color: $black;
 }
+
+
+
+::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: $white;
+  opacity: 1;
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: $white;
+}
+
+::placeholder {
+  /* Most modern browsers support this now. */
+  color: white;
+}
