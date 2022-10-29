@@ -1,0 +1,9 @@
+.soon{
+    position: absolute;
+    top: 0;
+    background-color: $dark;
+    height:100vh;
+    & img{
+        width: 50%;
+    }
+}

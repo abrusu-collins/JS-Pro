@@ -6,6 +6,7 @@ import Testimonies from "./components/Testimonies";
 import Free from "./components/Free";
 import Wait from "./components/Wait";
 import Footer from "./components/Footer";
+import Soon from "./components/Soon";
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
       <Free/>
       <Wait/>
       <Footer/>
+      <Soon/>
     </>
   );
 }
