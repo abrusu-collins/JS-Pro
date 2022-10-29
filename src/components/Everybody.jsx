@@ -1,13 +1,12 @@
 import platforms from "../img/platforms.svg";
 import { useEffect } from "react";
 function Everybody() {
+  function confirmExit()
+  {
+console.log("sed") ;
+}
   useEffect(() => {
-    window.onbeforeunload = confirmExit;
-    function confirmExit()
-    {
-      return "show warning";
-    }
-}, [])
+    window.onbeforeunload = confirmExit()})
   return (
     <div className="everybody">
       <img src={platforms} alt="platforms" />
