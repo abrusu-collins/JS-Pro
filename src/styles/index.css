@@ -267,11 +267,15 @@
   width: 100%;
   align-items: center;
 }
+.soon .the-form .cta {
+  margin: 15px 0;
+}
 .soon .the-form form input {
   width: 50%;
   padding: 10px;
   border: none;
   background-color: black;
+  color: white;
 }
 .soon .the-form form button {
   padding: 10px;
