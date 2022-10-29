@@ -1,20 +1,32 @@
-.soon{
-    position: absolute;
-    top: 0;
-    background-color: $dark;
-    height:100vh;
-    display: flex;
-    width: 100%;
-    align-items: center;
-    & .the-form{
-        
-    }
-    & p{
-        color: white;
-        font-size: 30px;
-        font-family: PPBold;
-    }
-    & img{
+.soon {
+  position: absolute;
+  top: 0;
+  background-color: $dark;
+  height: 100vh;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  & .the-form {
+    & form {
+      & input {
         width: 50%;
+        padding: 10px;
+        border: none;
+        background-color: black;
+      }
+      & button {
+        padding: 10px;
+        border: none;
+        background-color: $yellow;
+      }
     }
+  }
+  & p {
+    color: white;
+    font-size: 30px;
+    font-family: PPBold;
+  }
+  & img {
+    width: 50%;
+  }
 }

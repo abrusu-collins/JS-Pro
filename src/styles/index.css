@@ -267,6 +267,17 @@
   width: 100%;
   align-items: center;
 }
+.soon .the-form form input {
+  width: 50%;
+  padding: 10px;
+  border: none;
+  background-color: black;
+}
+.soon .the-form form button {
+  padding: 10px;
+  border: none;
+  background-color: #ffcf0a;
+}
 .soon p {
   color: white;
   font-size: 30px;
