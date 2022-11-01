@@ -153,7 +153,7 @@
 }
 .testimonies .testimonies-inner .the-testimonies > div .testimony-body {
   color: #c9cecf;
-  margin-bottom: 30px;
+  margin-bottom: 70px;
 }
 .testimonies .testimonies-inner .the-testimonies > div .person-name {
   color: #fcfeff;
@@ -178,7 +178,7 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 4rem;
-  padding: 100px 0;
+  padding: 150px 0;
 }
 .free > div {
   border-radius: 20px;
@@ -264,7 +264,7 @@
   align-items: center;
 }
 .soon .the-form .cta {
-  margin: 15px 0;
+  margin: 20px 0 30px 0;
 }
 .soon .the-form form input {
   width: 50%;
@@ -280,7 +280,7 @@
 }
 .soon p {
   color: white;
-  font-size: 30px;
+  font-size: 40px;
   font-family: PPBold;
 }
 .soon img {

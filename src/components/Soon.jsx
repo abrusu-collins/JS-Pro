@@ -4,7 +4,7 @@ function Soon() {
     <div className="soon">
       <img src={sadgirl} alt="" />
       <div className="the-form">
-        <p className="soon-title">Leaving so soon?</p>
+        <p className="soon-title">We have a lot in store.</p>
         <p className="cta">Subscribe to our News Letter</p>
         <form id="form">
           <input
