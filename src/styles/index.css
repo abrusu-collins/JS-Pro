@@ -263,6 +263,8 @@
   background-color: #151a1c;
   display: flex;
   align-items: center;
+  justify-content: center;
+  padding: 100px 0;
 }
 .soon .the-form .cta {
   margin: 20px 0 30px 0;
@@ -283,7 +285,4 @@
   color: white;
   font-size: 40px;
   font-family: PPBold;
-}
-.soon img {
-  width: 50%;
 }
