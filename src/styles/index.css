@@ -259,8 +259,6 @@
 }
 
 .soon {
-  position: absolute;
-  top: 0;
   background-color: #151a1c;
   height: 100vh;
   display: flex;
