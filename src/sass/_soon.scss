@@ -1,13 +1,9 @@
 .soon {
-  // position: absolute;
-  // top: 0;
   background-color: $dark;
-  height: 100vh;
   display: flex;
-  width: 100%;
   align-items: center;
   & .the-form {
-    & .cta{
+    & .cta {
       margin: 15px 0;
     }
     & form {
