@@ -10,19 +10,19 @@ function Hero() {
             <p>
               Learning to code is {" "}
 
-              <RoughNotation type="underline" order="1" animationDelay="5000">
+              <RoughNotation type="underline" order="1" animationDelay="3000">
               {" "} HARD{" "}
               </RoughNotation>
             </p>
             <p>
               But finding the right resources for your learning journey is {" "}
-              <RoughNotation type="underline" order="2" animationDelay="5000">
+              <RoughNotation type="underline" order="2" animationDelay="3000">
                 HARDER
               </RoughNotation>
             </p>
             <p>
               {" "}
-              <RoughNotation type="underline" order="3" animationDelay="5000">
+              <RoughNotation type="underline" order="3" animationDelay="3000">
                 JAVASCRIPT-PRO{" "}
               </RoughNotation>
               has all the tested and trusted reasources you need
