@@ -1,5 +1,5 @@
-import _1 from "../img/1.svg";
-import _2 from "../img/2.svg";
+import _1 from "../../img/1.svg";
+import _2 from "../../img/2.svg";
 
 function Testimonies() {
   return (

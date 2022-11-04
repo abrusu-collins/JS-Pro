@@ -1,4 +1,4 @@
-import platforms from "../img/platforms.svg";
+import platforms from "../../img/platforms.svg";
 function Everybody() {
   return (
     <div className="everybody">

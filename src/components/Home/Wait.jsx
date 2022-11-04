@@ -1,4 +1,4 @@
-import rocket from "../img/rocket.png";
+import rocket from "../../img/rocket.png";
 function Wait() {
   return (
     <div className="wait">

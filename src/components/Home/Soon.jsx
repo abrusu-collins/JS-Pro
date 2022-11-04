@@ -1,4 +1,4 @@
-import sadgirl from "../img/sad-girl.png";
+import sadgirl from "../../img/sad-girl.png";
 function Soon() {
   return (
     <div className="soon">

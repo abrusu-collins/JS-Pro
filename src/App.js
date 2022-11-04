@@ -1,22 +1,10 @@
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import "./styles/index.css";
-import Hero from "./components/Hero";
-import Offer from "./components/Offer";
-import Everybody from "./components/Everybody";
-import Testimonies from "./components/Testimonies";
-import Free from "./components/Free";
-import Wait from "./components/Wait";
-import Soon from "./components/Soon";
-
+import Home from "./components/Home";
 function App() {
   return (
     <>
-      <Hero />
-      <Offer />
-      <Everybody />
-      <Testimonies />
-      <Free />
-      <Wait />
-      <Soon />
+<Home/>
     </>
   );
 }

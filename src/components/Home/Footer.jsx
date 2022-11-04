@@ -1,4 +1,4 @@
-import footergirl from "../img/footer-g.png";
+import footergirl from "../../img/footer-g.png";
 function Footer() {
     let year = new Date().getFullYear();
     return ( 
