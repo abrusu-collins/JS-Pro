@@ -6,7 +6,7 @@ function Wait() {
         <div className="wait-about">
           <p>What are you waiting for?</p>
           <p>Skyrocket your Javascript Skills now</p>
-          <a href=" ">Start Learning</a>
+          <a href="/resourcelinks">Start Learning</a>
         </div>
         <img src={rocket} alt="" />
       </div>
