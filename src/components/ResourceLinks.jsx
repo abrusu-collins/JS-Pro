@@ -11,7 +11,7 @@ function ResourceLinks() {
   return (
     <div className="resourcelinks">
       <div className="resourcelinks-hero">
-        <p>What do you want to learn?</p>
+        <p>What do you want to learn?🚀</p>
       </div>
 
       <div className="all-resouces">
