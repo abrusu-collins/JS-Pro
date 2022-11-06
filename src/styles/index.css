@@ -290,8 +290,20 @@
   text-align: center;
 }
 .resourcelinks .all-resouces {
-  margin-top: 150px;
+  width: 70%;
+  margin: 150px auto 0 auto;
+}
+.resourcelinks .all-resouces > div {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2rem;
+  background-color: #f5f5f5;
+  margin-bottom: 50px;
+  align-items: center;
+}
+.resourcelinks .all-resouces > div div {
+  padding: 30px;
 }
 .resourcelinks img {
-  width: 30%;
+  width: 100%;
 }
