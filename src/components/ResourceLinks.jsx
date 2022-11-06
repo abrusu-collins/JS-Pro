@@ -16,7 +16,7 @@ function ResourceLinks() {
 
       <div className="all-resouces">
         <div className="frontend">
-          <img src={frontend} alt="" />
+          <img src={frontend} alt="frontendimg" />
           <div>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
@@ -28,7 +28,7 @@ function ResourceLinks() {
           </div>
         </div>
         <div className="backend">
-          <img src={backend} alt="" />
+          <img src={backend} alt="backendimg" />
           <div>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
@@ -40,7 +40,7 @@ function ResourceLinks() {
           </div>
         </div>
         <div className="projects">
-          <img src={projects} alt="" />
+          <img src={projects} alt="projectsimg" />
           <div>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
@@ -52,7 +52,7 @@ function ResourceLinks() {
           </div>
         </div>
         <div className="resume">
-          <img src={resume} alt="" />
+          <img src={resume} alt="resumeimg" />
           <div>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
@@ -64,7 +64,7 @@ function ResourceLinks() {
           </div>
         </div>
         <div className="linkedin">
-          <img src={linkedin} alt="" />
+          <img src={linkedin} alt="linkedinimg" />
           <div>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
@@ -76,7 +76,7 @@ function ResourceLinks() {
           </div>
         </div>
         <div className="jobs">
-          <img src={jobs} alt="" />
+          <img src={jobs} alt="jobsimg" />
           <div>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
@@ -88,7 +88,7 @@ function ResourceLinks() {
           </div>
         </div>
         <div className="interviews">
-          <img src={interviews} alt="" />
+          <img src={interviews} alt="interviewsimg" />
           <div>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
@@ -100,7 +100,7 @@ function ResourceLinks() {
           </div>
         </div>
         <div className="quiz">
-          <img src={quiz} alt="" />
+          <img src={quiz} alt="quizimg" />
           <div>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
