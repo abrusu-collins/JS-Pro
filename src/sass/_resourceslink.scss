@@ -6,25 +6,39 @@
     & p {
       font-family: PPBold;
       font-size: 70px;
-      padding:120px 0;
+      padding: 120px 0;
       text-align: center;
     }
   }
   & .all-resouces {
-    // margin-top: 150px;
     width: 70%;
-    margin:150px auto 0 auto;
-    & >div {
-        display: grid;
-        grid-template-columns: repeat(2,1fr);
-        grid-gap:2rem;
-        background-color: #f5f5f5;
-        margin-bottom: 50px;
-        align-items: center;
-        & div{
-            padding: 30px;
-            
+    margin: 150px auto 100px auto;
+    & > div {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 2rem;
+      background-color: #f5f5f5;
+      margin-bottom: 50px;
+      align-items: center;
+      & div {
+        padding: 30px;
+        text-align: center;
+        & a {
+          display: inline-block;
+          text-decoration: none;
+          color: $white;
+          background-color: $black;
+          padding: 12px 40px;
+          margin-top: 40px;
+          border-radius: 5px;
+          border: 2px solid $black;
+
+          &:hover {
+            background-color: #f5f5f5;
+            color: $black;
+          }
         }
+      }
     }
   }
   & img {
