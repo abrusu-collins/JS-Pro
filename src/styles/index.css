@@ -66,17 +66,6 @@
   background-color: #ffcf0a;
   color: #151a1c;
 }
-.hero:after {
-  content: " ";
-  width: 220px;
-  height: 220px;
-  position: absolute;
-  bottom: -74px;
-  box-shadow: 50px -30px 0 0 #ffcf0a;
-  right: 0;
-  z-index: 0;
-  border-radius: 0% 50% 0% 0%;
-}
 
 .offer {
   margin: 150px auto 150px auto;
