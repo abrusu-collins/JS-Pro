@@ -8,47 +8,47 @@ import interviews from "../img/interviews.png";
 import quiz from "../img/quiz.png";
 
 function ResourceLinks() {
-    return (
-        <div className="resourcelinks">
-            <div className="resourcelinks-hero">
-              <p>What do you want to learn?</p>
-              <div className="all-resoucers">
-                <div className="frontend">
-                <img src={frontend} alt="" />
-                <a href=" ">Explore</a>
-                </div>
-                <div className="frontend">
-                <img src={frontend} alt="" />
-                <a href=" ">Explore</a>
-                </div>
-                <div className="frontend">
-                <img src={frontend} alt="" />
-                <a href=" ">Explore</a>
-                </div>
-                <div className="frontend">
-                <img src={frontend} alt="" />
-                <a href=" ">Explore</a>
-                </div>
-                <div className="frontend">
-                <img src={frontend} alt="" />
-                <a href=" ">Explore</a>
-                </div>
-                <div className="frontend">
-                <img src={frontend} alt="" />
-                <a href=" ">Explore</a>
-                </div>
-                <div className="frontend">
-                <img src={frontend} alt="" />
-                <a href=" ">Explore</a>
-                </div>
-                <div className="frontend">
-                <img src={frontend} alt="" />
-                <a href=" ">Explore</a>
-                </div>
-              </div>
-            </div>
+  return (
+    <div className="resourcelinks">
+      <div className="resourcelinks-hero">
+        <p>What do you want to learn?</p>
+        <div className="all-resouces">
+          <div className="frontend">
+            <img src={frontend} alt="" />
+            <a href=" ">Explore</a>
+          </div>
+          <div className="frontend">
+            <img src={frontend} alt="" />
+            <a href=" ">Explore</a>
+          </div>
+          <div className="frontend">
+            <img src={frontend} alt="" />
+            <a href=" ">Explore</a>
+          </div>
+          <div className="frontend">
+            <img src={frontend} alt="" />
+            <a href=" ">Explore</a>
+          </div>
+          <div className="frontend">
+            <img src={frontend} alt="" />
+            <a href=" ">Explore</a>
+          </div>
+          <div className="frontend">
+            <img src={frontend} alt="" />
+            <a href=" ">Explore</a>
+          </div>
+          <div className="frontend">
+            <img src={frontend} alt="" />
+            <a href=" ">Explore</a>
+          </div>
+          <div className="frontend">
+            <img src={frontend} alt="" />
+            <a href=" ">Explore</a>
+          </div>
         </div>
-      );
+      </div>
+    </div>
+  );
 }
 
 export default ResourceLinks;

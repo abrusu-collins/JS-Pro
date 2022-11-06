@@ -278,3 +278,7 @@
   font-size: 40px;
   font-family: PPBold;
 }
+
+.resourcelinks img {
+  width: 50%;
+}
