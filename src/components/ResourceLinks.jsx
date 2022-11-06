@@ -17,35 +17,99 @@ function ResourceLinks() {
       <div className="all-resouces">
         <div className="frontend">
           <img src={frontend} alt="" />
-          <a href=" ">Explore</a>
+          <div>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
+              sit sapiente, laborum ea ad dolorem qui ex in doloribus nulla
+              praesentium, illum, doloremque ut voluptatem ullam? Vero itaque
+              architecto nostrum?
+            </p>
+            <a href=" ">Explore</a>
+          </div>
         </div>
-        <div className="frontend">
-          <img src={frontend} alt="" />
-          <a href=" ">Explore</a>
+        <div className="backend">
+          <img src={backend} alt="" />
+          <div>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
+              sit sapiente, laborum ea ad dolorem qui ex in doloribus nulla
+              praesentium, illum, doloremque ut voluptatem ullam? Vero itaque
+              architecto nostrum?
+            </p>
+            <a href=" ">Explore</a>
+          </div>
         </div>
-        <div className="frontend">
-          <img src={frontend} alt="" />
-          <a href=" ">Explore</a>
+        <div className="projects">
+          <img src={projects} alt="" />
+          <div>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
+              sit sapiente, laborum ea ad dolorem qui ex in doloribus nulla
+              praesentium, illum, doloremque ut voluptatem ullam? Vero itaque
+              architecto nostrum?
+            </p>
+            <a href=" ">Explore</a>
+          </div>
         </div>
-        <div className="frontend">
-          <img src={frontend} alt="" />
-          <a href=" ">Explore</a>
+        <div className="resume">
+          <img src={resume} alt="" />
+          <div>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
+              sit sapiente, laborum ea ad dolorem qui ex in doloribus nulla
+              praesentium, illum, doloremque ut voluptatem ullam? Vero itaque
+              architecto nostrum?
+            </p>
+            <a href=" ">Explore</a>
+          </div>
         </div>
-        <div className="frontend">
-          <img src={frontend} alt="" />
-          <a href=" ">Explore</a>
+        <div className="linkedin">
+          <img src={linkedin} alt="" />
+          <div>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
+              sit sapiente, laborum ea ad dolorem qui ex in doloribus nulla
+              praesentium, illum, doloremque ut voluptatem ullam? Vero itaque
+              architecto nostrum?
+            </p>
+            <a href=" ">Explore</a>
+          </div>
         </div>
-        <div className="frontend">
-          <img src={frontend} alt="" />
-          <a href=" ">Explore</a>
+        <div className="jobs">
+          <img src={jobs} alt="" />
+          <div>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
+              sit sapiente, laborum ea ad dolorem qui ex in doloribus nulla
+              praesentium, illum, doloremque ut voluptatem ullam? Vero itaque
+              architecto nostrum?
+            </p>
+            <a href=" ">Explore</a>
+          </div>
         </div>
-        <div className="frontend">
-          <img src={frontend} alt="" />
-          <a href=" ">Explore</a>
+        <div className="interviews">
+          <img src={interviews} alt="" />
+          <div>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
+              sit sapiente, laborum ea ad dolorem qui ex in doloribus nulla
+              praesentium, illum, doloremque ut voluptatem ullam? Vero itaque
+              architecto nostrum?
+            </p>
+            <a href=" ">Explore</a>
+          </div>
         </div>
-        <div className="frontend">
-          <img src={frontend} alt="" />
-          <a href=" ">Explore</a>
+        <div className="quiz">
+          <img src={quiz} alt="" />
+          <div>
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
+              sit sapiente, laborum ea ad dolorem qui ex in doloribus nulla
+              praesentium, illum, doloremque ut voluptatem ullam? Vero itaque
+              architecto nostrum?
+            </p>
+            <a href=" ">Explore</a>
+          </div>
         </div>
       </div>
     </div>
