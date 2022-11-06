@@ -260,15 +260,18 @@
 }
 .soon .the-form form input {
   width: 50%;
-  padding: 10px;
+  padding: 20px;
   border: none;
   background-color: black;
   color: white;
 }
 .soon .the-form form button {
-  padding: 10px;
+  padding: 20px;
   border: none;
   background-color: #ffcf0a;
+}
+.soon .the-form form button:hover {
+  cursor: pointer;
 }
 .soon p {
   color: white;
