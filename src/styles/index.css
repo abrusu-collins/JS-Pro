@@ -279,6 +279,16 @@
   font-family: PPBold;
 }
 
+.resourcelinks .resourcelinks-hero {
+  background-color: #ffcf0a;
+  border-bottom-left-radius: 120px;
+}
+.resourcelinks .resourcelinks-hero p {
+  font-family: PPBold;
+  font-size: 70px;
+  padding: 120px 0;
+  text-align: center;
+}
 .resourcelinks img {
-  width: 50%;
+  width: 30%;
 }

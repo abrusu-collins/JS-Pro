@@ -1,11 +1,20 @@
 .resourcelinks {
   & .resourcelinks-hero {
+    background-color: $yellow;
+    border-bottom-left-radius: 120px;
+
+    & p {
+      font-family: PPBold;
+      font-size: 70px;
+      padding:120px 0;
+      text-align: center;
+    }
   }
   & .all-resouces {
-
-
+    & div {
+    }
   }
-  & img{
-    width: 50%;
+  & img {
+    width: 30%;
   }
 }
