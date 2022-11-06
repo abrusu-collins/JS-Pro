@@ -13,8 +13,37 @@ function ResourceLinks() {
             <div className="resourcelinks-hero">
               <p>What do you want to learn?</p>
               <div className="all-resoucers">
-                <div>
-
+                <div className="frontend">
+                <img src={frontend} alt="" />
+                <a href=" ">Explore</a>
+                </div>
+                <div className="frontend">
+                <img src={frontend} alt="" />
+                <a href=" ">Explore</a>
+                </div>
+                <div className="frontend">
+                <img src={frontend} alt="" />
+                <a href=" ">Explore</a>
+                </div>
+                <div className="frontend">
+                <img src={frontend} alt="" />
+                <a href=" ">Explore</a>
+                </div>
+                <div className="frontend">
+                <img src={frontend} alt="" />
+                <a href=" ">Explore</a>
+                </div>
+                <div className="frontend">
+                <img src={frontend} alt="" />
+                <a href=" ">Explore</a>
+                </div>
+                <div className="frontend">
+                <img src={frontend} alt="" />
+                <a href=" ">Explore</a>
+                </div>
+                <div className="frontend">
+                <img src={frontend} alt="" />
+                <a href=" ">Explore</a>
                 </div>
               </div>
             </div>
